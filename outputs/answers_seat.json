@@ -1,0 +1,17 @@
+[
+    {
+        "answer": "B",
+        "reasoning": "Q is at an extreme end (given). U is at the other extreme end as V is between T and U, and S is third from the South end. Thus, U and Q are at the extreme ends. Option B is correct."
+    },
+    null,
+    null,
+    {
+        "answer": "A",
+        "reasoning": "Q is opposite P, so they are separated by 3 people. T is between Q and S. R is second to left of S. Placing Q opposite P, T between Q and S, and R second to left of S leads to T being fourth to the right of P."
+    },
+    {
+        "answer": "B",
+        "reasoning": "A and C are at the ends. F is third to left of C, so F is 4th from left. E is between F and D, so D is 6th. B is to the right of A, so B is 2nd. Thus, the order is A, B, F, E, D, C. The second from left is B."
+    },
+    null
+]

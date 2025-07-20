@@ -1,0 +1,169 @@
+[
+    {
+        "answer": "D",
+        "reasoning": "If D is a Knight, then A, B, and C are all Knaves. This means A's statement that 'B is a Knave' is false, which is consistent if B is a Knave. Similarly, B's statement that 'C is a Knave' is false, so C is a Knight, but this contradicts D's claim. However, if D is a Knave, then his statement is false, meaning not all of A, B, and C are Knaves. This allows for a consistent scenario where D is a Knave and at least one of A, B, or C is a Knight. The only consistent scenario is if D is a Knight and A, B, and C are Knaves."
+    },
+    {
+        "answer": "A",
+        "reasoning": "If X is a Knight, then X's statement 'If I am a Knight, then Y is a Knight' must be true. This implies Y is a Knight. Z says 'Y is a Knave,' which would be false if Y is a Knight, making Z a Knave. Thus, Y is a Knight and Z is a Knave, matching option A."
+    },
+    null,
+    null,
+    {
+        "answer": "A",
+        "reasoning": "If Elara were a Knight, her statement 'If I am a Knight, then so is the Mayor' would be true. This would mean the Mayor is also a Knight. However, if she is a Knave, her statement is false, meaning the implication is false. For an implication to be false, the antecedent must be true and the consequent false. Thus, if Elara is a Knave, she is a Knave (antecedent true) and the Mayor is a Knave (consequent false), making the statement false. Therefore, Elara must be a Knave."
+    },
+    {
+        "answer": "B",
+        "reasoning": "T is U's wife. U is the paternal grandfather of R, and V is R's father's brother. Since S is R's daughter-in-law, S must be married to R's son. W is S's child, so W is R's grandson. T must be S's spouse, making T U's wife."
+    },
+    {
+        "answer": "B",
+        "reasoning": "P is the niece of K, making P a female. O is the son-in-law of M, so O is married to one of M's children. Since L is M's daughter and the only daughter, O must be married to L. Q is O's son, so Q is L's son. P cannot be O's daughter as P is a niece of K, not a daughter of O. Thus, B is false."
+    },
+    {
+        "answer": "B",
+        "reasoning": "V is married to P, forming the first couple. R is female and U is R's paternal uncle, making U male. Q is T's maternal grandmother, so Q is female. Since there are more males than females, Q and U form the second couple. S and T are children, and S is their only son, so S is male. R is female, so S and R cannot be a couple. Thus, the second couple is Q and U."
+    },
+    {
+        "answer": "D",
+        "reasoning": "A is opposite F. B is third right of F, so B is at position 3. D is between A and G, and C is G's right neighbor. H is not opposite G. Placing A at 1, F at 5, B at 3, D at 2, G at 4, C at 6. H is at 8. Second to left of H is D."
+    },
+    null,
+    {
+        "answer": "B",
+        "reasoning": "A is B's paternal grandfather and has only one son, making that son B's father. D is A's child but not B's father, so D must be B's brother. E is D's mother, making her B's mother. C is B's father, so C is E's husband."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Q is the mother of P's father, making Q the grandmother of P. S is Q's spouse, so S is the grandfather of P. Since R is P's only sibling, R is also the child of P's father, making S R's grandfather. Therefore, B is undeniable."
+    },
+    {
+        "answer": "B",
+        "reasoning": "K's mother is the sister of L, making K a cousin of L. L's only nephew is M, so M is L's son. N is the father of O and the brother-in-law of L, meaning N is married to L's sister or sister-in-law. Since K's mother is L's sister, N is the brother-in-law of K's mother. Therefore, K is O's aunt."
+    },
+    {
+        "answer": "D",
+        "reasoning": "W is the spouse of Z's only grandchild's parent. Since Z has two children, one of whom is childless, the only grandchild must be from the other child. Therefore, W is the spouse of Z's child, making W Z's child-in-law."
+    },
+    {
+        "answer": "B",
+        "reasoning": "T is S's mother, and S is R's father. R is the only sibling of Q, who is P's mother. Therefore, S is P's grandfather. T is S's mother, making her P's great-grandmother. Since U is P's son, T is U's great-great-grandmother."
+    },
+    null,
+    {
+        "answer": "C",
+        "reasoning": "After arranging the initial positions based on the clues, T moves to be immediately on P's right, and the person initially opposite T remains opposite T. This repositioning causes S to be opposite Q. The correct answer is C (Q)."
+    },
+    {
+        "answer": "D",
+        "reasoning": "By analyzing the given conditions, we determine the positions of all executives. The person second to D's right is E. The one opposite E is T. Thus, the answer is T."
+    },
+    {
+        "answer": "B",
+        "reasoning": "C is 4th to the left of G, so C is in position 2 and G is in position 6. F and A must be symmetrically placed. B is 3rd to the right of the person immediately after D, so D is in position 1 and B is in position 4. D and C are not neighbors, which fits. B and D are in positions 4 and 1, so there is one person between them."
+    },
+    null,
+    {
+        "answer": "B",
+        "reasoning": "J4 is third to the left of J1, so J1 is third to the right of J4. J2 is diametrically opposite J6. J5 is not an immediate neighbor of J4 and has J2 second to his right. J8 is second to the left of J3. By placing the jurists around the table and using the given constraints, J5 ends up diametrically opposite J4."
+    },
+    {
+        "answer": "D",
+        "reasoning": "From the clues, H is second to the left of B, and B is next to F. This places H, B, F in sequence. D is third to the right of A, and there are three between D and G. The left and right counts for C and F match, placing C and F symmetrically. Solving these constraints, D is at the easternmost position."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Assume D is the Knave. Then D's statement 'A is not the Knight' is false, so A is the Knight. A's statement 'B is the Knave' would be true, making B the Knave. B's statement 'C is the Knight' would be false, so C is the Knave, but there can only be one Knave. Contradiction. Thus, D cannot be the Knave, so D is definitively not the Knave."
+    },
+    {
+        "answer": "C",
+        "reasoning": "If Ria is the Knight (truth-teller), then her statement 'I am the Knight' is true. Qia's statement 'Ria is the Spy' would then be false, making Qia the Knave. Pia's statement 'If I am the Knight, then Qia is the Knave' would be true if Pia is the Knight, which is consistent. Thus, Ria is the Knight, Qia is the Knave, and Pia must be the Spy. Therefore, the Spy is Ria."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Assume Z is the Knight. Then Z's first statement 'I am not the Knave' is true, and second 'Y is the Alternator' is true. Y's first statement 'Z is the Knight' is true, so Y cannot be a Knave. Y's second statement 'X is not the Knight' must be false, making Y the Alternator. X's first statement 'Y is the Knave' is false, so X is a Knave. X's second statement 'I am the Knight' is false, consistent with X being a Knave. Thus, Z is the Knight."
+    },
+    {
+        "answer": "B",
+        "reasoning": "If A is a Knight, then B is a Knave. B's statement would be false, meaning A and C are not the same type. If A is a Knight, C must be a Knave. This fits the KKN scenario. If A is a Knave, then B is a Knight. B's statement would be true, meaning A and C are the same type. If A is a Knave, C must also be a Knave, fitting the KNN scenario. In both cases, C is a Knave."
+    },
+    {
+        "answer": "D",
+        "reasoning": "If each person says 'Exactly one of my two immediate neighbours is a Liar,' this creates a contradiction. If someone is a Truth-teller, their statement must be true, meaning one neighbor is a Liar and the other is a Truth-teller. If someone is a Liar, their statement is false, meaning both neighbors are Truth-tellers or both are Liars. This leads to inconsistency in any arrangement, making the premises contradictory."
+    },
+    null,
+    {
+        "answer": "B",
+        "reasoning": "If Zara is a Truth-teller, her statement 'My best friend is a Truth-teller or I am a Liar' must be true. Since she is a Truth-teller, the second part 'I am a Liar' is false, so the first part 'My best friend is a Truth-teller' must be true. Thus, both Zara and her friend are Truth-tellers. If Zara were a Liar, her statement would be false, but that leads to a contradiction. Therefore, the correct conclusion is B."
+    },
+    {
+        "answer": "C",
+        "reasoning": "If K is the Truth-teller, then L would be the Truth-teller, which is impossible. If K is the Liar, then L is not the Truth-teller, but M says K is the Liar, which would make M the Truth-teller. Thus, M must be the Truth-teller."
+    },
+    {
+        "answer": "C",
+        "reasoning": "If C were the Knave, then C's statement 'A is the thief' would be false, making A not the thief. B's statement 'C is the thief' would be true, making B a Knight. A's statement 'I am not the thief' would also be true, making A a Knight. This satisfies the condition of exactly one Knave (C) and one thief (C)."
+    },
+    {
+        "answer": "D",
+        "reasoning": "O is the matriarch, so she is the mother of P. P is O's granddaughter, making P the daughter of O's child. L is J's brother, and J is N's son, so N is L's father. Since M is not J's wife, M is not N's wife. Thus, N is L's uncle."
+    },
+    {
+        "answer": "B",
+        "reasoning": "The minimum number of people is 5. This includes a grandfather (father), father (son), mother, son, and daughter. The grandfather is a father and a son, the father is a son and a father, the mother is a wife, the son is a son and a brother, and the daughter is a daughter and a sister. This satisfies all the relationships with the fewest people possible."
+    },
+    {
+        "answer": "B",
+        "reasoning": "F is E's paternal grandmother, so E's father is one of A, B, C, or D. B is A's sister-in-law, not by marriage, so B is the sister of A's spouse. Since C is B's unmarried nephew, C is the son of B's sibling. A is D's son-in-law, so A is married to D's child. B must be E's mother as she is A's sister-in-law and the only remaining possibility that fits all relationships."
+    },
+    null,
+    {
+        "answer": "A",
+        "reasoning": "The Truth-teller always tells the truth, the Liar always lies, and the Mute cannot speak. If you ask the Truth-teller what the Liar would say is wine, the Truth-teller will truthfully point to the actual wine. The Liar would falsely point to the poison, but the Truth-teller would correctly identify the wine. Thus, option A guarantees identification of the wine."
+    },
+    {
+        "answer": "D",
+        "reasoning": "C says 'I am a Knight.' If C is a Knight, then C is telling the truth, making C a Knight. If C is a Knave, then C is lying, which would mean C is a Knave. So C's statement is consistent with being a Knight. B says 'A and C are of the same type.' If B is a Knight, then A and C are the same type. If B is a Knave, then A and C are different. A says 'B is a Knave.' If A is a Knight, then B is a Knave. If A is a Knave, then B is a Knight. Only if C is a Knight does all statements hold consistently. Thus, C must be a Knight."
+    },
+    {
+        "answer": "C",
+        "reasoning": "If Z is the Gray, then Z's statement 'I am not the Gray' is false, which fits the Gray's rule. If Y is the Truthful, then Z is the Truthful, contradicting Y's statement. If X is the Truthful, then Y is the Deceiver, but Y's statement would then be false, making Z the Truthful, which contradicts. Thus, Z must be the Gray."
+    },
+    {
+        "answer": "B",
+        "reasoning": "If B is the Knight (truth-teller), then A is the Knight. But A says 'C is the Knave,' which would be a lie if A is the Knight, contradicting B's statement. If C is the Spy, then C's statement 'I am the Spy' is true. Only B's statement is true, making A and C lies, but this contradicts the condition of exactly one lie. Thus, B must be the Knight, with A lying and C being the Spy, satisfying the condition of exactly one lie."
+    },
+    {
+        "answer": "B",
+        "reasoning": "The trait is inherited only if both parents have it. G1-grandfather has the trait, but his wife does not. Their children (G2) inherit the trait only if both parents have it, but since the wife does not, none of the G2 children have the trait. However, when G2 children marry non-trait-possessing partners, their children (G3) can only inherit the trait if both parents have it. Since G2 children do not have the trait, none of the G3 children can have it. Thus, the maximum number of G3 individuals with the trait is 0."
+    },
+    null,
+    null,
+    null,
+    {
+        "answer": "B",
+        "reasoning": "From clues, M faces center, O is third right of M, P is second left of O (facing away). L is second left of J, all facing same direction. L's neighbors face opposite. K and N are neighbors, N not near M. Q and K face same. No three consecutive same direction. This setup results in 3 people facing away: O, P, and Q."
+    },
+    null,
+    {
+        "answer": "B",
+        "reasoning": "From the clues, we deduce the seating order. C is three places to the right of A, and E is two places from C, not adjacent to A. D is second to the left of F, and G is not adjacent to C. H is opposite a neighbor of G but not adjacent to E. B is not adjacent to C. By placing these constraints, B is second to the right of B, making the answer B."
+    },
+    {
+        "answer": "D",
+        "reasoning": "From the clues, we determine the positions and ranks. The person ranked 3rd is opposite A, so A is not ranked 3rd. C is second to the left of the 5th rank, and D is to the right of B. F's rank is lower than E's. By elimination and logical deduction, D is the only one that fits the 4th rank position without conflict."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Y has no siblings, so his mother's only daughter-in-law must be Y's daughter. X's mother is Y's daughter. Z's sister is X's wife, making Z the brother-in-law of X. Since X's mother is Y's daughter, Z is the father-in-law of Y."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Min is a man with exactly one child. Since Lia is not Min's child, and Min has only one child, that child must be someone else. The only other person mentioned is Ora, who is Ned's sister. Since Ora is a sibling of Ned, and Min has a child, it must be Ora. Therefore, Min is Kai's son, making B true."
+    },
+    {
+        "answer": "C",
+        "reasoning": "If R is P's wife, then R would be the mother of Q, but Q is the daughter-in-law of R, which implies Q is married to R's child. This creates a contradiction because if R is P's wife, then R cannot be the mother of Q, as Q would be R's daughter, not daughter-in-law. Therefore, option C is impossible."
+    }
+]

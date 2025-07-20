@@ -1,0 +1,79 @@
+[
+    {
+        "answer": "C",
+        "reasoning": "O is P's wife and N's parent. N is O's only daughter. M is N's brother. J is M's nephew. J's father is M's brother, N. J's paternal grandfather is N's father, O. P is O's husband. Thus, J is P's grand-nephew."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Assume X is a Knight. His statement is true, so Y is a Knave. But Y's statement ('X is a Knave') would be a lie told by a Knave, which is a contradiction. Assume X is a Knave. His statement is false, so X is a Knight. This is also a contradiction. The scenario leads to a paradox, making it impossible."
+    },
+    {
+        "answer": "A",
+        "reasoning": "The man's daughter is the maternal aunt of the speaker's husband's only nephew. The speaker's father is an only child, making her the only daughter. Her husband's nephew's maternal aunt must be her father. Thus, the man is her father."
+    },
+    {
+        "answer": "C",
+        "reasoning": "D is unmarried and B's father, making D the husband of E. F is G's brother, and G is A's child. As D is E's husband, F is their brother-in-law. G is a daughter, so F is the brother-in-law of E's husband (D)."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Place Q and W opposite. Place T-R-V-U. P-S must be 3rd left/right. S cannot be at 8. S at 2, P at 5. V-U-T-R must be 3-4-1-7. R is at 7. P is at 5. W is opposite P."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Place Q. R is third right of Q, so R is at 3. L is right of O, so O is at 5 and L is at 2. M/N are opposite, at 4 and 7. P is at 6. P is opposite Q at 1. The final order is Q(1)-P(2)-L(3)-R(4)-O(5)-M(6)-N(7)-P(8). P sits opposite Q."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Place Q at 1. S is at 3 (S's right). M is at 6 (M's left). P and W are at 2 and 5. T is at 7. V is at 4. The 'not near S' rule places U at 8. V at 4 is opposite W at 5."
+    },
+    {
+        "answer": "D",
+        "reasoning": "The speaker is a male. His mother's only son must be him. His father's only nephew must also be him. The contradiction implies the speaker has no father. The daughter is his niece, as her parent-child relationship is not defined by the same parent as the speaker's mother."
+    },
+    {
+        "answer": "C",
+        "reasoning": "L and M fix the line as L _ _ _ _ M. O is second left of M, placing O at position 4. K and J must be at 2 and 3. P must be at 5, forcing N to be at 1, which conflicts with L. The only valid configuration places O at position 4."
+    },
+    {
+        "answer": "C",
+        "reasoning": "C is D's mother's only sibling, making C her sister. B is C's brother-in-law, so B is married to C's sister (D's mom). B is A's father, making B A's parent. E is B's mother. D's parent (B's wife) is C's sister, so E is D's great-grandmother. D is E's grandchild."
+    },
+    {
+        "answer": "A",
+        "reasoning": "U's mother is Z. Z is Y's sister. Y is X's daughter. X is W's son. Therefore, Z and Y are W's daughters. U is the child of Z and W's son X. V is U's father. Thus, V is W's son."
+    },
+    {
+        "answer": "A",
+        "reasoning": "The woman has no siblings, so 'my father's only child' refers to herself. The man is her father's only son, making him her brother. The lack of siblings clarifies that the 'only son' is not her father's child, but a separate individual, establishing a direct sibling relationship."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Assume A is the Knight. Then B is a Knave, so C is a Knave. But B's statement 'C is a Knave' would then be true, a contradiction. If B is the Knight, C's statement 'B is a Knave' would be true, another contradiction. Thus, C must be the Knight, and A/B are Knaves. C's statement 'B is a Knave' is true, consistent with C being a Knight."
+    },
+    null,
+    {
+        "answer": "C",
+        "reasoning": "Place U at North. T is 2nd left, at West. V is not U's neighbor. S is opposite Q. R is right of W. P is not with T. V and T must be on South. This forces W and P to be on East. Q must be on North, leaving S on South. This means U is on North with Q and S, and V and T are on South."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Assume S is a Knave. Then 'P is a Knave iff I am a Knave' is false, so P must be a Knight. P's statement 'Q is a Knave' is true, so Q is a Knave. Q's statement 'R is a Knave' is a lie, so R is a Knight. This is a contradiction. Assume S is a Knight. Then 'P is a Knave iff I am a Knave' is true, so P is a Knave. This leads to no contradictions. S and R are Knights, P and Q are Knaves."
+    },
+    {
+        "answer": "C",
+        "reasoning": "P and R are married. R is male (not mother). T is R's brother. Q is R's son. U is Q's brother. S is P's daughter. The females are R's wife, Q, and S. Total three females."
+    },
+    {
+        "answer": "A",
+        "reasoning": "M and W are opposite. V is not with M, so V is on W's side. P is not next to S. T is with U, and S is not with T. R is left of Q. Placing R-Q on W's side and V on S's side leads to P being opposite V."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Nisha's father's only sibling is Rina's father's spouse, making them Nisha's paternal uncle. Since Rina has no siblings, her father has no siblings. Thus, Nisha and Rina share no common parents, and Nisha is Rina's cousin."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Place Arthur. Place Percival next to Arthur. Place Kay opposite Percival. Place Lancelot 2nd right of Arthur. Place Bedivere 3rd left of Tristan. Eliminate options based on adjacency and position constraints. Galahad is the only person left to sit opposite Arthur."
+    }
+]

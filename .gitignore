@@ -1,0 +1,6 @@
+ckpt/
+tutorial/checkpoints/
+tutorial/q_checkpoints/
+.ipynb_checkpoints/
+tutorial/wandb/
+

@@ -1,0 +1,192 @@
+[
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight friends, P through W, sit around a square table, two on each side. T is second to the left of U. V is an immediate neighbor of both X and Z. Y is not on the same side as T. W is second to the right of P. If S is not an immediate neighbor of U, then Q is not on the same side as V. Who sits opposite W?",
+    "choices": [
+      "A) T",
+      "B) P",
+      "C) Y",
+      "D) Z"
+    ]
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Three logicians, A, B, and C, are either Knights or Knaves. A says: 'B is a Knave.' B says: 'C is a Knave.' C says: 'At least one of us is a Knight.' What are A, B, and C?",
+    "choices": [
+      "A) A=K, B=V, C=K",
+      "B) A=V, B=K, C=V",
+      "C) A=V, B=V, C=K",
+      "D) A=K, B=V, C=V"
+    ]
+  },
+  {
+    "topic": "Puzzles involving generations and family tree logic",
+    "question": "A man, who is not an only child, makes a statement: 'My father's only sibling is the father of my wife's only child.' How is the man's father related to his wife?",
+    "choices": [
+      "A) Paternal Grandfather",
+      "B) Maternal Grandfather",
+      "C) Father-in-law",
+      "D) Paternal Grandfather-in-law"
+    ]
+  },
+  {
+    "topic": "Puzzles involving generations and family tree logic",
+    "question": "A family of 8 (A,B,C,D,E,F,G,H) has three generations and three married couples. C is B's only son and F's brother. G is A's son-in-law. A has only one child, a female. H is B's granddaughter. D is G's mother. E is F's paternal uncle. Who is B's spouse?",
+    "choices": [
+      "A) A",
+      "B) D",
+      "C) G",
+      "D) H"
+    ]
+  },
+  {
+    "topic": "Puzzles involving generations and family tree logic",
+    "question": "A family has a Grandfather, one Father, one Mother, two Sons, one Daughter, and one Grandson. The Grandfather's son is his only married child. There are no deaths or adoptions. What is the minimum number of people in this family?",
+    "choices": [
+      "A) 4",
+      "B) 7",
+      "C) 6",
+      "D) 5"
+    ]
+  },
+  {
+    "topic": "Puzzles involving generations and family tree logic",
+    "question": "A woman says, 'The man in the photo is the only son of my mother's only child.' She has no siblings. How is the man related to her?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Uncle",
+      "D) Cousin"
+    ]
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight friends, P through W, sit around a circular table. No two neighbors have consecutive letters (e.g., P is not between O and Q). P is third to the right of S. V is an immediate neighbor of both U and T. R is not near P. W sits opposite Q. Who sits second to the left of W?",
+    "choices": [
+      "A) T",
+      "B) U",
+      "C) V",
+      "D) R"
+    ]
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Three logicians (P, Q, R) are either Knights (truthful) or Knaves (liars). P says, 'Exactly one of us is a Knight.' Q says, 'P is a Knight.' What is the only possible combination?",
+    "choices": [
+      "A) P=Knight, Q=Knave, R=Knave",
+      "B) P=Knave, Q=Knight, R=Knave",
+      "C) P=Knave, Q=Knave, R=Knight",
+      "D) P=Knave, Q=Knave, R=Knave"
+    ]
+  },
+  {
+    "topic": "Puzzles involving generations and family tree logic",
+    "question": "In a family, P is the son of Q, but Q is not P's father. R and Q are a married couple. T is the brother of Q. S is the daughter of R. U is the brother of S. How is U related to T?",
+    "choices": [
+      "A) Son",
+      "B) Nephew",
+      "C) Brother",
+      "D) Uncle"
+    ]
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Two logicians, A and B, are either Knights or Knaves. A says, 'My being a Knight and B being a Knight have the same truth value.' What can be definitively concluded?",
+    "choices": [
+      "A) A is a Knight.",
+      "B) B is a Knight.",
+      "C) Both are Knaves.",
+      "D) A is a Knave."
+    ]
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight knights sit at a round table. Sir Lancelot sits third to the right of King Arthur. Sir Galahad is not a neighbor of Lancelot or Arthur. Sir Bedivere is third to the right of Galahad. Sir Tristan is immediately left of Sir Percival. Sir Kay is second to the left of Arthur. Who sits opposite Lancelot?",
+    "choices": [
+      "A) Percival",
+      "B) Kay",
+      "C) Galahad",
+      "D) Arthur"
+    ]
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "At a round table are six people (J, K, L, M, N, O). J sits opposite K. L is to J's immediate right. M is not adjacent to K. N is second to the left of O. If O is not J's neighbor, then M is second to the right of L. Who sits opposite L?",
+    "choices": [
+      "A) K",
+      "B) O",
+      "C) M",
+      "D) N"
+    ]
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Two tribes: Day (truthful) and Night (liars). A says: 'B is a Day-person and I am a Night-person.' B says: 'A and C are of opposite types.' What is C?",
+    "choices": [
+      "A) A Day-person",
+      "B) A Night-person",
+      "C) The same type as A",
+      "D) Cannot be determined"
+    ]
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight analysts (A-H) sit at a circular table. Four face out, four face in. C is third to the left of F. G is an immediate neighbor of C. A is second to the right of H. B is not adjacent to F. E is not a neighbor of A. Who is definitively seated opposite B?",
+    "choices": [
+      "A) F",
+      "B) G",
+      "C) C",
+      "D) H"
+    ]
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight knights sit at a round table. Sir Lancelot sits third to the right of King Arthur. Sir Galahad is not a neighbor of Lancelot or Arthur. Sir Bedivere is third to the right of Galahad. Sir Tristan is immediately left of Sir Percival. Sir Kay is second to the left of Arthur. Who sits opposite Sir Percival?",
+    "choices": [
+      "A) Sir Bedivere",
+      "B) King Arthur",
+      "C) Sir Galahad",
+      "D) Sir Lancelot"
+    ]
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight programmers (A-H) sit in a row. Four face right, four left. G is third from the left end. F is second to the right of G. H is an immediate neighbor of F. C is at an end. B is not near A or H. E is third to the left of D. Who sits opposite E?",
+    "choices": [
+      "A) F",
+      "B) H",
+      "C) G",
+      "D) C"
+    ]
+  },
+  {
+    "topic": "Puzzles involving generations and family tree logic",
+    "question": "A family has members P, Q, R, S, T, U. Q is the son of R but R is not his mother. P and R are a married couple. T is the brother of R. S is the daughter of P. U is the brother of Q. How many female members are there in the family?",
+    "choices": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ]
+  },
+  {
+    "topic": "Puzzles involving generations and family tree logic",
+    "question": "In a group, P is Q's sister. R is Q's mother. S is R's father. T is R's mother. P states that her maternal grandfather has no grandsons. How must Q be related to S?",
+    "choices": [
+      "A) Grandson",
+      "B) Son",
+      "C) Granddaughter",
+      "D) Nephew"
+    ]
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Two logicians, A and B, are either Knights or Knaves. A says, 'My being a Knight and B being a Knight have the same truth value.' What can be definitively concluded?",
+    "choices": [
+      "A) A is a Knight.",
+      "B) B is a Knight.",
+      "C) Both are Knaves.",
+      "D) A is a Knave."
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "answer": "C",
+        "reasoning": "Since each person belongs to a different tribe, we analyze their statements. X says 'I like apple' and 'X likes banana', which is contradictory. Y says 'Z likes mango' and 'Y likes mango', which is also contradictory. Z says 'I like apple' and 'X likes banana'. Since Z's statements are consistent, Z is from the third tribe. X's contradictions indicate a liar, so X is from the second tribe. Y's contradictions indicate a truth-teller, so Y is from the first tribe. Thus, Z likes apple."
+    },
+    {
+        "answer": "D",
+        "reasoning": "The statements are inconsistent. If X likes banana, then X's statement about liking apple is a lie. If Y says Z likes mango and X likes banana, and Z says he likes apple, there is no consistent assignment of tribes that satisfies all statements. Therefore, it cannot be determined who is a truth-teller."
+    },
+    null
+]
